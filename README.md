@@ -1,16 +1,19 @@
 ##House Rental Website
 Welcome to the House Rental Website repository! This project is a full-stack application that facilitates searching for rental homes, viewing details, booking homes, and receiving personalized recommendations. The application leverages Spring Boot for the backend, React for the frontend, and machine learning for recommendations.
+
 ##Table of Contents
 •	Features
 •	Technologies Used
 •	Setup Instructions
 •	Usage
 •	Contributing
+
 ##Features
 •	Home Search: Users can search for rental homes using various filters.
 •	Detailed View: View detailed information about each home, including images, description, and amenities.
 •	Booking: Book homes for rent using the Razorpay payment gateway.
 •	Recommendations: Personalized home recommendations based on user preferences and search history.
+
 ###Technologies Used
 ##Frontend
 •	React
